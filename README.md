@@ -1,3 +1,10 @@
+# Oversetter for røverspråket
+
+Dette er en oversetter som tar hvilken som helst setning og gjør den om til røverspråk. Den kan også oversette en setning på røverspråk tilbake til originalspråket.\
+Røverspråket er et skjulespråk, altså en krypteringsmetode, som legger en "o" foran hver konsonant i en setning, etterfulgt av den samme konsonanten på nytt.
+
+Røverspråket på Wikipedia: https://no.wikipedia.org/wiki/R%C3%B8verspr%C3%A5ket
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
